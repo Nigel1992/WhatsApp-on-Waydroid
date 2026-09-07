@@ -138,8 +138,8 @@ This location is used by the Waydroid/Android configuration the script was devel
 Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
+git clone https://github.com/Nigel1992/WhatsApp-on-Waydroid.git
+cd WhatsApp-on-Waydroid
 ```
 
 Make the script executable:
