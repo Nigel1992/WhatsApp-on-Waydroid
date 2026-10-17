@@ -1,3 +1,5 @@
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?logo=discord&logoColor=white)](https://discord.gg/UbPRh74PzV)
+
 # 🔧 Waydroid WhatsApp Google Account Visibility Fix
 
 A small Linux script that fixes an issue where **WhatsApp running inside Waydroid cannot see an existing Google account** when attempting to restore a Google Drive backup.
