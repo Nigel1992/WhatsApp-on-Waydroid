@@ -3,6 +3,8 @@
 
 # 🔧 Waydroid WhatsApp Google Account Visibility Fix
 
+[![Vibe Coded](https://img.shields.io/badge/Vibe_Coded-✨-8A2BE2?style=for-the-badge)](https://github.com)
+
 A small Linux script that fixes an issue where **WhatsApp running inside Waydroid cannot see an existing Google account** when attempting to restore a Google Drive backup.
 
 Instead of showing your Google account, WhatsApp's account picker may only display:
